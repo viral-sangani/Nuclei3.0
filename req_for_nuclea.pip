@@ -1,0 +1,5 @@
+pyttsx3
+selenium
+Wikipedia-API==0.3.5	
+request
+PyAudio
